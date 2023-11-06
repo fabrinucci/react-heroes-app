@@ -26,7 +26,7 @@
 ## Install
 
 ```sh
-yarn install
+npm install
 ```
 
 ## Technologies
